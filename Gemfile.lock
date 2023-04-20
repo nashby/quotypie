@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    quotypie (0.0.1)
+    quotypie (0.0.2)
 
 GEM
   remote: https://rubygems.org/
